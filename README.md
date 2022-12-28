@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Flutter Java Android 
 - 🌱 I’m currently learning  Golang
 - 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me send Gmail or other things, just like drifting bottle
+- 📫 How to reach me? u can send Gmail or other things, like drifting bottle
 
 
 <!---

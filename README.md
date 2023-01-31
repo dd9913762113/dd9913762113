@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dd9913762113
+- 👋 Hi, I’m @Duncan
 - 👀 I’m interested in iOS Flutter Java Android 
 - 🌱 I’m currently learning  Golang
 - 💞️ I’m looking to collaborate on everyone
